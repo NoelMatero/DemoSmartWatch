@@ -16,7 +16,7 @@ The schematics are not guaranteed to work perfectly, after all this is my first 
 - USB connector for programming the ESP32
 - A microphone for
 - Extra [memory](https://www.lcsc.com/product-detail/C2682313.html)
-- A microphone for voice recordings.
+- A [microphone](https://jlcpcb.com/partdetail/Linkmems-LMA2718T421_OA52/C7587901) for voice recordings.
 - A [quad-band GSM/GPRS module](https://www.lcsc.com/product-detail/C69119.html) for SMS messages and other shenanigans
 - Support for common smartwatch peripherals (display, sensors, buttons)
 - An [antenna](https://www.taoglas.com/datasheets/PCS.55.A.pdf) for the module. Might not be compatible
