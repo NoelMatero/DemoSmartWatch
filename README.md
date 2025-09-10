@@ -21,6 +21,7 @@ The schematics are not guaranteed to work perfectly, after all this is my first 
 - An [antenna](https://www.taoglas.com/datasheets/PCS.55.A.pdf) for the module. Might not be compatible
 - A [Nano SIM card](https://www.lcsc.com/product-detail/C7529384.html) holder for the module
 - A Litium battery managment [component](https://www.lcsc.com/product-detail/C382139.html)
+- A [bttery connector](https://www.lcsc.com/product-detail/C2908611.html)
 
 ## License
 This project is shared under the **MIT License**.  
