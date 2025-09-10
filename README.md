@@ -5,6 +5,7 @@ The goal of the project was to learn more about PCB design, power management, an
 ⚠️ **Disclaimer:**  
 This project is experimental and not intended for commercial use.  
 I cannot guarantee safety, reliability, or fitness for any application — use it at your own risk.  
+The schematics are not guaranteed to work perfectly, after all this is my first PCB design.
 
 ## Features
 - Designed in [EasyEDA](https://easyeda.com/)  
