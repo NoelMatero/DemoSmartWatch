@@ -1,2 +1,4 @@
-# My smartwatch PCB project
-I made this PCB to learn about electronics and PCB designing. It is the first PCB I have made so it is not perfect.
+# DIY Smartwatch PCB  
+This is a **custom smartwatch PCB** I designed for fun and educational purposes.  
+The goal of the project was to learn more about PCB design, power management, and integrating different modules into a compact wearable form factor.  
+
