@@ -10,7 +10,8 @@ The schematics are not guaranteed to work perfectly, after all this is my first 
 ## Features
 - Designed in [EasyEDA](https://easyeda.com/)  
 - Compact form factor suitable for a smartwatch enclosure  
-- Microcontroller-based (e.g. ESP32 / ARM Cortex-M — depending on your choice)  
+- Uses ESP32-WROOM-32E-N16 for bluetooth and Wi-fi 
+- A connector for a [TFT LCD Touch Screen](https://www.alibaba.com/product-detail/2-8-inch-TFT-LCD-Screen_1600246407796.html)
 - Battery-powered with charging circuit  
 - Support for common smartwatch peripherals (display, sensors, buttons)  
 
