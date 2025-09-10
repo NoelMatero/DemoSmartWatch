@@ -14,3 +14,6 @@ The schematics are not guaranteed to work perfectly, after all this is my first 
 - Battery-powered with charging circuit  
 - Support for common smartwatch peripherals (display, sensors, buttons)  
 
+## License
+This project is shared under the **MIT License**.  
+Feel free to use it for learning, tinkering, or as inspiration for your own designs.  
