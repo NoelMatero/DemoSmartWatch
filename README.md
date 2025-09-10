@@ -9,12 +9,9 @@ The schematics are not guaranteed to work perfectly, after all this is my first 
 
 ## Features
 - Designed in [EasyEDA](https://easyeda.com/)  
-- Compact form factor suitable for a smartwatch enclosure  
 - Uses [ESP32-WROOM-32E-N16](https://www.lcsc.com/product-detail/C701343.html) for bluetooth and Wi-fi features
 - A connector for a [TFT LCD Touch Screen](https://www.alibaba.com/product-detail/2-8-inch-TFT-LCD-Screen_1600246407796.html)
-- Battery-powered with a charging circuit
 - USB connector for programming the ESP32
-- A microphone for
 - Extra [memory](https://www.lcsc.com/product-detail/C2682313.html)
 - A [microphone](https://jlcpcb.com/partdetail/Linkmems-LMA2718T421_OA52/C7587901) for voice recordings.
 - A [quad-band GSM/GPRS module](https://www.lcsc.com/product-detail/C69119.html) for SMS messages and other shenanigans
