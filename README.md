@@ -5,3 +5,13 @@ The goal of the project was to learn more about PCB design, power management, an
 ⚠️ **Disclaimer:**  
 This project is experimental and not intended for commercial use.  
 I cannot guarantee safety, reliability, or fitness for any application — use it at your own risk.  
+
+---
+
+## Features
+- Designed in [EasyEDA](https://easyeda.com/)  
+- Compact form factor suitable for a smartwatch enclosure  
+- Microcontroller-based (e.g. ESP32 / ARM Cortex-M — depending on your choice)  
+- Battery-powered with charging circuit  
+- Support for common smartwatch peripherals (display, sensors, buttons)  
+
