@@ -6,8 +6,6 @@ The goal of the project was to learn more about PCB design, power management, an
 This project is experimental and not intended for commercial use.  
 I cannot guarantee safety, reliability, or fitness for any application — use it at your own risk.  
 
----
-
 ## Features
 - Designed in [EasyEDA](https://easyeda.com/)  
 - Compact form factor suitable for a smartwatch enclosure  
