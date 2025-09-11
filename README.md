@@ -7,6 +7,10 @@ This project is experimental and not intended for commercial use.
 I cannot guarantee safety, reliability, or fitness for any application — use it at your own risk.  
 The schematics are not guaranteed to work perfectly, after all this is my first PCB design.
 
+# Check the project in OSHWlab!
+Check out my [account](https://oshwlab.com/noel.matero/smart_watch_new) in OSHWlab
+Check out this [project](https://pro.easyeda.com/editor#id=6929718608074dc79e4d65e0e2f97e27) in OSHWlab
+
 ## Features
 - Designed in [EasyEDA](https://easyeda.com/)  
 - Uses [ESP32-WROOM-32E-N16](https://www.lcsc.com/product-detail/C701343.html) for bluetooth and Wi-fi features
