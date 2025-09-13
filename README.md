@@ -23,8 +23,9 @@ Check out this [project](https://pro.easyeda.com/editor#id=6929718608074dc79e4d6
 - A [quad-band GSM/GPRS module](https://www.lcsc.com/product-detail/C69119.html) for SMS messages and other shenanigans
 - An [antenna](https://www.taoglas.com/datasheets/PCS.55.A.pdf) for the module. Might not be compatible
 - A [Nano SIM card](https://www.lcsc.com/product-detail/C7529384.html) holder for the module
-- A Litium battery managment [component](https://www.lcsc.com/product-detail/C382139.html)
-- A [battery connector](https://www.lcsc.com/product-detail/C2908611.html)
+- A Litium battery managment [system](https://www.lcsc.com/product-detail/C382139.html)
+- A [battery connector component](https://www.lcsc.com/product-detail/C2908611.html)
+- Voltage translators and regulators, see the [schematic!](https://github.com/NoelMatero/DemoSmartWatch/blob/main/hardware/schematic.pdf)
 
 ## Schematic
 ![See the full schematic here in PDF form](https://github.com/NoelMatero/DemoSmartWatch/blob/main/hardware/schematic.pdf)
