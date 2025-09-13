@@ -30,6 +30,7 @@ Check out this [project](https://pro.easyeda.com/editor#id=6929718608074dc79e4d6
 
 ## PCB in 3D
 ![](https://github.com/NoelMatero/DemoSmartWatch/blob/main/images/pcb_back.png)
+Note! the PCB had to be ordered in such a weird form (4 PCBs) due to complications
 
 
 
