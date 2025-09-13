@@ -26,7 +26,7 @@ Check out this [project](https://pro.easyeda.com/editor#id=6929718608074dc79e4d6
 - A [battery connector](https://www.lcsc.com/product-detail/C2908611.html)
 
 ## Schematic
-![alt text](https://github.com/NoelMatero/DemoSmartWatch/hardware/schematic.pdf)
+![alt text](https://github.com/NoelMatero/DemoSmartWatch/blob/main/hardware/schematic.pdf)
 
 
 ## License
