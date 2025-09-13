@@ -25,6 +25,10 @@ Check out this [project](https://pro.easyeda.com/editor#id=6929718608074dc79e4d6
 - A Litium battery managment [component](https://www.lcsc.com/product-detail/C382139.html)
 - A [battery connector](https://www.lcsc.com/product-detail/C2908611.html)
 
+## Schematic
+![alt text](https://github.com/NoelMatero/DemoSmartWatch/hardware/schematic.pdf)
+
+
 ## License
 This project is shared under the **MIT License**.  
 Feel free to use it for learning, tinkering, or as inspiration for your own designs.  
