@@ -41,6 +41,10 @@ Note: the PCB had to be ordered in such a weird form (4 PCBs) due to complicatio
 ## PCB SMT Bottom
 ![](https://github.com/NoelMatero/DemoSmartWatch/blob/main/images/bottom_smt.png)
 
+## Questions
+
+Send me an email for noelbenjaminmatero@gmail.com if you have any questions.
+
 ## License
 This project is shared under the **MIT License**.  
 Feel free to use it for learning, tinkering, or as inspiration for your own designs.  
