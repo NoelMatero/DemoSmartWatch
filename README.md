@@ -43,7 +43,7 @@ Note: the PCB had to be ordered in such a weird form (4 PCBs) due to complicatio
 
 ## Questions
 
-Send me an email for noelbenjaminmatero@gmail.com if you have any questions.
+Send me an email if you have any questions.
 
 ## License
 This project is shared under the **MIT License**.  
