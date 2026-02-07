@@ -33,7 +33,7 @@ Note that the schematic has not been FULLY tested and it main contain mistakes, 
 
 ## PCB in 3D
 ![](https://github.com/NoelMatero/DemoSmartWatch/blob/main/images/pcb_back.png)
-Note: the PCB had to be ordered in such a weird form (4 PCBs) due to complications
+Note: the PCB had to be ordered in such a weird form (4 PCBs) due to complications with the USB port
 
 ## PCB SMT Front
 ![](https://github.com/NoelMatero/DemoSmartWatch/blob/main/images/top_smt.png)
