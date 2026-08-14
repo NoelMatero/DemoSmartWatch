@@ -1,5 +1,5 @@
 # DIY Smartwatch PCB  
-This is a **custom smartwatch PCB** I designed by myself for fun and educational purposes.  
+This is a **custom smartwatch PCB** I designed by myself when I was 15 for fun and educational purposes.  
 The goal of the project was to learn more about PCB design, low level programming, and electronics in general.
 The project was done in 2023-2024. This project is the hardest thing I have ever done. Learning electronics at such a deep level was a huge challenge worth doing. 
 
